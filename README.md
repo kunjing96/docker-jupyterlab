@@ -58,7 +58,7 @@
 
 ## 2 下载镜像并启动容器
 
-获取官方镜像（可从https://registry.hub.docker.com/查找，以pytorch/pytorch:1.6.0-cuda10.1-cudnn7-runtime为例）：
+获取官方镜像（可从https://registry.hub.docker.com/ 查找，以pytorch/pytorch:1.6.0-cuda10.1-cudnn7-runtime为例）：
 
 		docker pull pytorch/pytorch:1.6.0-cuda10.1-cudnn7-runtime
 
